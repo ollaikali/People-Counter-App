@@ -46,3 +46,12 @@ button {
 #total-btn {
     background: rgb(179, 184, 179);
 }
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+#total-el {
+    margin-left: 0.3em;
+}
