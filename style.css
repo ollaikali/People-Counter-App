@@ -42,3 +42,7 @@ button {
 #save-btn {
     background: darkgreen;
 }
+
+#total-btn {
+    background: rgb(179, 184, 179);
+}
